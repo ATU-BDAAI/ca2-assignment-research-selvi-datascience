@@ -1,0 +1,9 @@
+opencv-python
+pytesseract
+numpy
+matplotlib
+pandas
+pymupdf
+easyocr
+tqdm
+pillow
