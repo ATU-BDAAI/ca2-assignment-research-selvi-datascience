@@ -7,3 +7,6 @@ pymupdf
 easyocr
 tqdm
 pillow
+nltk
+spacy
+scikit-learn
